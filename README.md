@@ -1,2 +1,3 @@
 # mlops-zoomcamp
-mlops bootcamp by data talks 
+mlops bootcamp by data talks
+cheese
